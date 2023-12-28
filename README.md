@@ -10,9 +10,10 @@
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center">
-[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=black" width="200" height="50">](https://github.com/burakOzden1) 
-[<img src="https://img.shields.io/badge/-Kaggle-informational?style=flat&logo=kaggle&logoColor=black&color=blue" width="200" height="50">](https://www.kaggle.com/burakzden) 
-[<img src="https://img.shields.io/badge/-Medium-informational?style=flat&logo=medium&logoColor=black&color=white" width="200" height="50">](https://medium.com/@zburakozden) 
+[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=gray&color=green" width="200" height="50">](https://github.com/burakOzden1) 
+[<img src="https://img.shields.io/badge/-Kaggle-informational?style=flat&logo=kaggle&logoColor=blue&color=green" width="200" height="50">](https://www.kaggle.com/burakzden) 
+[<img src="https://img.shields.io/badge/-Medium-informational?style=flat&logo=medium&logoColor=black&color=green" width="200" height="50">](https://medium.com/@zburakozden) 
+[<img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=blue&color=green" width="200" height="50">](https://medium.com/@zburakozden) 
 
 </p>
 
