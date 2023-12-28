@@ -12,7 +12,7 @@
 <br> <p align="center">
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=gray&color=green" width="200" height="50">](https://github.com/burakOzden1) 
 [<img src="https://img.shields.io/badge/-Kaggle-informational?style=flat&logo=kaggle&logoColor=blue&color=green" width="200" height="50">](https://www.kaggle.com/burakzden) 
-[<img src="https://img.shields.io/badge/-Medium-informational?style=flat&logo=medium&logoColor=black&color=green" width="200" height="50">](https://medium.com/@zburakozden)
+[<img src="https://img.shields.io/badge/-Medium-informational?style=flat&logo=medium&logoColor=black&color=green" width="200" height="50">](https://medium.com/@zburakozden) 
 [<img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=blue&color=green" width="200" height="50">](https://www.linkedin.com/in/burak-%C3%B6zden-854593222/) 
 
 </p>
