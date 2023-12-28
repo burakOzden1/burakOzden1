@@ -13,7 +13,6 @@
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=black" width="200" height="50">](https://github.com/burakOzden1) 
 [<img src="https://img.shields.io/badge/-Kaggle-informational?style=flat&logo=kaggle&logoColor=black&color=blue" width="200" height="50">](https://www.kaggle.com/burakzden) 
 [<img src="https://img.shields.io/badge/-Medium-informational?style=flat&logo=medium&logoColor=black&color=white" width="200" height="50">](https://medium.com/@zburakozden) 
-[<img src="https://img.shields.io/badge/-Gmail-informational?style=flat&logo=gmail&logoColor=black&color=green" width="200" height="50">](zburakozden@gmail.com) 
 
 </p>
 
