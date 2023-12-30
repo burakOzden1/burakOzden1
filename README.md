@@ -16,9 +16,9 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=blue&color=green" width="200" height="50">](https://www.linkedin.com/in/burak-%C3%B6zden-854593222/) 
 
 </p>
-
+<!-- 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2">
-</p>
+</p> -->
