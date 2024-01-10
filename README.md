@@ -22,3 +22,26 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2">
 </p> -->
+
+
+
+
+<!-- denemeler -->
+<!-- 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+ -->
+
+
+
+
+
+ <!-- <img src="asset/react-dark.svg" height=250 alt="graph"/>  -->
+ 
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burakOzden1&theme=react-dark&radius=15)](https://github.com/burakOzden1/github-readme-activity-graph)
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
